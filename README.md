@@ -28,7 +28,7 @@ Este projeto tem como objetivo analisar a qualidade das bananas com base em vár
 
 - Python 3.x
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn, plotly, dash
-- 
+  
 ## Pré-processamento dos Dados
 
 Os dados são carregados de um arquivo CSV, colunas são renomeadas para português, valores ausentes são preenchidos com zero e valores negativos são substituídos pela mediana de cada coluna.
@@ -78,20 +78,28 @@ Os principais resultados e visualizações incluem:
 
 **Exemplo de Uso:**
 
-python
-import pandas as pd
 
-- Carregar dados
-dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
-- Pré-processar dados
-**(ver script principal para detalhes)**
+     import pandas as pd
 
-- Treinar modelo
-**(ver script principal para detalhes)**
+ ##Carregar dados
+  
+    dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
-- Avaliar modelo
-**(ver script principal para detalhes)**
+##Pré-processar dados
+
+    **(ver script principal para detalhes)**
+
+##Treinar modelo
+
+    **(ver script principal para detalhes)**
+  
+##Avaliar modelo
+
+    **(ver script principal para detalhes)**
+
+
+
 
 *Para detalhes completos, veja o código no arquivo Jupyter Notebook neste repositório.* 
 
