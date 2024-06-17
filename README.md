@@ -17,11 +17,12 @@ Este repositório contém um estudo completo sobre a qualidade das bananas, incl
 
 Este projeto tem como objetivo analisar a qualidade das bananas com base em várias características, como tamanho, peso, doçura, tempo de colheita, suavidade, maturação e acidez. A classificação da qualidade (Boa ou Ruim) é realizada com o uso de algoritmos de machine learning.
  
- *Estrutura do Projeto:*
+  *Estrutura do Projeto:*
 
 - `banana_quality.ipynb`: Notebook Jupyter contendo o código e análises.
 - `banana_quality.csv`: Arquivo de dados utilizado no projeto.
 - `README.md`: Este arquivo.
+
 
   *Requisitos*
 
@@ -75,7 +76,7 @@ Os principais resultados e visualizações incluem:
 
 ----------------------------------------------------------------------------------------------
 
-**Exemplo de Uso:**
+**- Exemplo de Uso:**
 
 python
 
@@ -84,13 +85,13 @@ import pandas as pd
 # Carregar dados
 dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
-# Pré-processar dados
+# - Pré-processar dados
 # (ver script principal para detalhes)
 
-# Treinar modelo
+# - Treinar modelo
 # (ver script principal para detalhes)
 
-# Avaliar modelo
+# - Avaliar modelo
 # (ver script principal para detalhes)
 
 *Para detalhes completos, veja o código no arquivo Jupyter Notebook neste repositório.* 
