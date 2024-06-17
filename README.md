@@ -76,23 +76,22 @@ Os principais resultados e visualizações incluem:
 
 ----------------------------------------------------------------------------------------------
 
-**- Exemplo de Uso:**
+**Exemplo de Uso:**
 
 python
-
 import pandas as pd
 
 # Carregar dados
 dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
-# - Pré-processar dados
-# (ver script principal para detalhes)
+- Pré-processar dados
+**(ver script principal para detalhes)**
 
-# - Treinar modelo
-# (ver script principal para detalhes)
+- Treinar modelo
+**(ver script principal para detalhes)**
 
-# - Avaliar modelo
-# (ver script principal para detalhes)
+- Avaliar modelo
+**(ver script principal para detalhes)**
 
 *Para detalhes completos, veja o código no arquivo Jupyter Notebook neste repositório.* 
 
