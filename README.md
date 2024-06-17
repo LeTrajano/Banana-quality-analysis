@@ -81,7 +81,7 @@ Os principais resultados e visualizações incluem:
 python
 import pandas as pd
 
-# Carregar dados
+- Carregar dados
 dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
 - Pré-processar dados
@@ -95,3 +95,4 @@ dados_banana = pd.read_csv('/path/to/banana_quality.csv')
 
 *Para detalhes completos, veja o código no arquivo Jupyter Notebook neste repositório.* 
 
+------------------------------------------------------------------------------------------------
